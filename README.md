@@ -20,6 +20,7 @@
   2.2).	โปรแกรม และบันทึกผลที่ได้
 <hr>
 <hr>
+![](https://github.com/NAVAKETH/LAB-06/blob/master/7.1.PNG?raw=true)
 <hr>
 <hr>
 <hr>
@@ -30,6 +31,7 @@
 <hr>
 <hr>
 <hr>
+####จะได้ค่าออกมาเยงแค่ตัวเดียวคือตัวหน้าสุดเท่านั้นเนื่องจากคำสั่งของConsole.Readนั้นจะเก็บแค่ค่าตัวแรกเท่านั้น
 <hr>
 <hr>
 
@@ -37,6 +39,7 @@
 <hr>
 <hr>
 <hr>
+####เออเริ่อครับ
 <hr>
 <hr>
 <hr>
@@ -51,6 +54,7 @@
 <hr>
 <hr>
 <hr>
+![](https://github.com/NAVAKETH/LAB-06/blob/master/7.2.PNG?raw=true)
 <hr>
 <hr>
 <hr>
@@ -65,6 +69,7 @@
 <hr>
 <hr>
 <hr>
+![](https://github.com/NAVAKETH/LAB-06/blob/master/7.3.PNG?raw=true)
 <hr>
 <hr>
 <hr>
@@ -74,6 +79,7 @@
 <hr>
 <hr>
 <hr>
+####ตอบ เกิดเออเร่อทำให้โปรแกรมทำงานผิดพลาดและหยุดการทำงาน แก้โดยเขียนcatch (Exception e)เพิ่ม
 <hr>
 <hr>
 
@@ -87,6 +93,7 @@
 <hr>
 <hr>
 <hr>
+![](https://github.com/NAVAKETH/LAB-06/blob/master/7.5.PNG?raw=true)
 <hr>
 <hr>
 <hr>
@@ -95,6 +102,8 @@
 <hr>
 <hr>
 <hr>
+#### ตอบ โปรแกรมจะยังทำงานต่อไปและไม่ปิดตัวเอง
+![](https://github.com/NAVAKETH/LAB-06/blob/master/7.4.PNG?raw=true)
 <hr>
 <hr>
 <hr>
@@ -107,3 +116,4 @@
 ``` ID : (ป้อนรหัสนักศึกษา).```
 
 ``` GPA : (ป้อนเกรดเฉลี่ยนักศึกษา โดยมีทศนิยมสองหลัก).```
+![](https://github.com/NAVAKETH/LAB-06/blob/master/7.7.PNG?raw=true)
